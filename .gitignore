@@ -1,0 +1,7 @@
+platforms
+node_modules
+hooks
+
+app/**/*.js
+app/**/*.css
+
